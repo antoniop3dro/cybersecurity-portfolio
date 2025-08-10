@@ -1,5 +1,3 @@
-# Linux
-
 ## Common directories
 - "/etc": stores system files that are used by the OS.
 - "etc/passwd" and "etc/shadow": stores user credentials in encrypted formatting.
